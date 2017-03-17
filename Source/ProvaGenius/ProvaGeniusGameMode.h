@@ -13,7 +13,8 @@ class PROVAGENIUS_API AProvaGeniusGameMode : public AGameMode
 {
 	GENERATED_BODY()
 	
-	
+public:
+	AProvaGeniusGameMode();
 	
 	
 };
